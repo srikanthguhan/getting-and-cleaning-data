@@ -37,11 +37,11 @@ The experiments have been carried out with a group of 30 volunteers within an ag
   
 The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 readings/window). The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used.  
   
-  For each record it is provided the mean and standard deviations of:  
-======================================  
+For each record it is provided the mean and standard deviations of:  
   
-- Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.  
-- Triaxial Angular velocity from the gyroscope.  
+- Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration  
+- Triaxial Angular velocity from the gyroscope  
+  
 grouped by the activity label and an identifier of the subject who carried out the experiment.  
   
 Any other query, kindly contact at srikanthguhan@gmail.com  
